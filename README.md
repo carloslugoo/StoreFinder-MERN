@@ -1,4 +1,4 @@
-# Store Finder - Javascript (React, Express, Node)
+# Store Finder - Javascript (React, Express, Node) y MongoDB
 Utilizar todas las tecnologias del Bootcamp para un proyecto final con funcionalidades CRUD y Validaciones.
 # Requisitos logrados: <br>
 ✔️ Vista del panel que muestra todas las tiendas: <br>
